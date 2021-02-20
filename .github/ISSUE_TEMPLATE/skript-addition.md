@@ -2,7 +2,7 @@
 name: Skript Addition
 about: Attempt to get YOUR skript added!
 title: "(SKRIPT)"
-labels: ''
+labels: Waiting for Response
 assignees: Sunni05
 
 ---
